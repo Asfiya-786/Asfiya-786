@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋 I'm Asfiya Makandar
 
-<!--
-**Asfiya-786/Asfiya-786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student | Data Science Enthusiast  
+💻 Learning Python, Git & GitHub  
+📊 Interested in Data Analysis & Machine Learning  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Python (Beginner)
+- Git & GitHub
+- Basics of Data Science
+- MS Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- 🔹 My First GitHub Project  
+  https://github.com/Asfiya-786/myproject
+
+### 📫 Connect with me
+- LinkedIn: (add your link here)
+
